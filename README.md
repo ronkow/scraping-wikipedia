@@ -1,4 +1,4 @@
-# scraping-wikipedia
+# scraping-wikipedia-single-page
 
-Tutorial can be found in:
+The tutorial can be found in:
 https://www.ronkow.com/machinelearning/wikipedia/
